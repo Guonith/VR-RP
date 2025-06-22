@@ -3,6 +3,14 @@
 
 # VanillaReborn RP - Elevate Your Minecraft Experience!
 
+# **Github Info**
+- This page made for publishing Alpha and Fun versions of resourcepack.
+- We will test interesting things on Alpha and Fun versions of resourcepack, and the most favorite ones will be added to the release.
+- U can send us a suggestion for adding something to the resource pack in the issues section or an outline/finished version in merges.
+
+<details>
+<summary>Modrinth Description</summary>
+
 ## **Description:**
 Welcome to VanillaReborn RP – the ultimate resource pack designed to elevate your Minecraft experience to new heights! This pack is meticulously crafted to enhance the visual appeal and immersive atmosphere of the game, providing players with stunning visuals and a more captivating gameplay experience.
 
@@ -13,7 +21,9 @@ Welcome to VanillaReborn RP – the ultimate resource pack designed to elevate y
 
 ## **Requirements:**
 - Minecraft version 1.19 and above
-- Optifine or [Sodium](https://modrinth.com/mod/sodium) + [CITResewn](https://modrinth.com/mod/cit-resewn)
+- Optifine or [Sodium](https://modrinth.com/mod/sodium) + Preferably [CITResewn](https://modrinth.com/mod/cit-resewn)
 - Windows, macOS, or Linux operating system
 
 Enhance your Minecraft experience with VanillaReborn RP and discover a whole new level of immersion and beauty in the world of blocks and pixels!
+
+</details>
