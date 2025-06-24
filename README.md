@@ -11,6 +11,8 @@
 <details>
 <summary>Modrinth Description</summary>
 
+# VanillaReborn RP
+
 ## **Description:**
 Welcome to VanillaReborn RP – the ultimate resource pack designed to elevate your Minecraft experience to new heights! This pack is meticulously crafted to enhance the visual appeal and immersive atmosphere of the game, providing players with stunning visuals and a more captivating gameplay experience.
 
@@ -19,11 +21,10 @@ Welcome to VanillaReborn RP – the ultimate resource pack designed to elevate y
 - **Compatibility:** Compatible with a wide range of mods and shaders, allowing you to customize your Minecraft experience even further.
 - **Regular Updates:** We're committed to improving EnhancedCraft with regular updates, ensuring compatibility with the latest versions of Minecraft and adding new features based on player feedback.
 
-## **Requirements:**
-- Minecraft version 1.19 and above
-- Optifine or [Sodium](https://modrinth.com/mod/sodium) + Preferably [CITResewn](https://modrinth.com/mod/cit-resewn)
-- Windows, macOS, or Linux operating system
+## **Requirements:** 
+- For Minecraft 1.20.4 and below: Optifine or [Sodium](https://modrinth.com/mod/sodium) + Preferebly [CITResewn](https://modrinth.com/mod/cit-resewn)
+- For Minecraft 1.20.5 and above: Nothing. :)
+- Windows, macOS, or Linux operating system.
 
 Enhance your Minecraft experience with VanillaReborn RP and discover a whole new level of immersion and beauty in the world of blocks and pixels!
-
 </details>
