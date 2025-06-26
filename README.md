@@ -6,7 +6,7 @@
 ## **Github Info**
 - **This page made for publishing Alpha and Fun versions of resourcepack.**
 - **We will test interesting things on Alpha and Fun versions of resourcepack, and the most favorite ones will be added to the release.**
-- **U can send us a suggestion for adding something to the resource pack in the issues section or an outline/finished version in merges.**
+- **You can send us a suggestion for adding something to the resource pack in the issues section or an outline/finished version in merges.**
 
 <details>
 <summary>Modrinth Description</summary>
